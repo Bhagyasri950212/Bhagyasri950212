@@ -423,3 +423,86 @@ React Playground Studio is a frontend application built using React.js to practi
 - ☁️ Learn Spring Boot, Microservices, and Cloud Technologies
 
 ---
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhagyasri950212&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyasri950212&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Bhagyasri950212&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bhagyasri950212&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhagyasri950212&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+> **⚠️ Note:** This animation works after you configure a GitHub Action. We'll set it up after the README is complete.
+
+<img src="https://raw.githubusercontent.com/Bhagyasri950212/Bhagyasri950212/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# 📅 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhagyasri950212&theme=tokyonight"/>
+
+</div>
+
+---
+
+# ⚡ Development Summary
+
+<div align="center">
+
+| Category | Focus |
+|----------|-------|
+| 💻 Primary Language | Java |
+| 🌐 Frontend | HTML, CSS, JavaScript, React |
+| ⚙️ Backend | Java Servlets, JSP, JDBC |
+| 🗄️ Databases | Oracle SQL, MySQL |
+| 🛠️ Tools | Git, GitHub, Maven, Eclipse, Postman |
+| 🎯 Current Goal | Software Engineering Internship |
+| 📚 Learning | Spring Boot, REST APIs, Microservices |
+
+</div>
+
+---
