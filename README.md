@@ -70,3 +70,113 @@ Currently, I am focused on strengthening my problem-solving skills through **Lee
 - 📚 Continuous Learning & Collaboration
 
 ---
+# 💻 Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
+
+---
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+---
+
+### ⚙️ Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,mysql" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Servlets-ED8B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JDBC-4B8BBE?style=for-the-badge"/>
+</p>
+
+---
+
+### ☁️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,maven,eclipse,vscode,postman" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Bhagyasri Andhavarapu
+
+Role: Aspiring Software Engineer
+
+Education:
+  Degree: B.Tech Information Technology
+  Graduation: 2027
+  CGPA: 7.94
+
+Currently Learning:
+  - Spring Boot
+  - REST APIs
+  - Microservices
+  - Data Structures & Algorithms
+  - System Design Basics
+
+Interests:
+  - Java Full Stack Development
+  - Backend Engineering
+  - Database Design
+  - Problem Solving
+  - Open Source
+
+Career Goal:
+  Build scalable software products
+  and contribute as a Software Engineer.
+```
+
+---
+
+# 🤖 AI / ML Expertise
+
+| Domain | Level | Details |
+|---------|:----:|---------|
+| Artificial Intelligence | ⭐⭐☆☆☆ | Exploring AI concepts and practical applications |
+| Machine Learning | ⭐⭐☆☆☆ | Learning supervised & unsupervised algorithms |
+| Data Structures & Algorithms | ⭐⭐⭐⭐☆ | Solved 100+ problems on LeetCode |
+| Java Programming | ⭐⭐⭐⭐☆ | Strong foundation in OOP, Collections, JDBC, Servlets |
+| Full Stack Development | ⭐⭐⭐⭐☆ | HTML, CSS, JavaScript, React, JSP, Servlets |
+| Database Management | ⭐⭐⭐⭐☆ | Oracle SQL, MySQL, JDBC |
+| REST APIs | ⭐⭐⭐☆☆ | Building and consuming APIs |
+| Git & GitHub | ⭐⭐⭐⭐☆ | Version control and collaborative development |
+
+---
+
+# 🌱 Currently Learning
+
+- 🌿 Spring Boot
+- 🌿 Microservices
+- 🌿 REST API Development
+- 🌿 Advanced Java
+- 🌿 SQL Optimization
+- 🌿 GitHub Actions
+- 🌿 Cloud Fundamentals
+- 🌿 Software Design Patterns
+
+---
