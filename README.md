@@ -506,3 +506,81 @@ React Playground Studio is a frontend application built using React.js to practi
 </div>
 
 ---
+---
+
+# 🌱 Current Focus
+
+```yaml
+Learning:
+  - Spring Boot
+  - REST API Development
+  - Microservices
+  - Advanced Java
+  - System Design
+  - Cloud Computing
+
+Building:
+  - Java Full Stack Applications
+  - React Projects
+  - Backend APIs
+  - Open Source Contributions
+
+Exploring:
+  - Software Architecture
+  - DevOps Basics
+  - Docker
+  - GitHub Actions
+  - CI/CD
+
+Open To:
+  - Software Engineering Internships
+  - Java Developer Roles
+  - Full Stack Development
+  - Open Source Collaboration
+```
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:bhagyasriandhavarapu@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bhagyasri-andhavarapu-b70ab62b7/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Bhagyasri950212">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Bhagyasri__09/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💜 Quote
+
+<div align="center">
+
+> **"Great software is built through continuous learning, thoughtful design, and consistent practice."**
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+If you like my work, consider following my GitHub journey and connecting with me on LinkedIn.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24,30"/>
+
+</div>
