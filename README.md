@@ -181,35 +181,53 @@ Career Goal:
 
 ---
 ---
+---
 
 # 🚀 Featured Projects
+
+| Project | Technology | Category |
+|---------|------------|----------|
+| 🌱 Eco Food Future | Java, JSP, Servlets, Oracle SQL | Full Stack |
+| 🛡️ Smart Tourist Safety Monitoring System | HTML, CSS, JavaScript, PHP, MySQL | Web Application |
+| ⚛️ React Playground Studio | React.js, JavaScript | Frontend Development |
+
+---
 
 <details>
 <summary><b>🌱 Eco Food Future – Donation Platform</b></summary>
 
-### 📖 Overview
+## 📖 Project Overview
 
-A full-stack donation platform that connects donors with NGOs through a secure and user-friendly web application.
+Eco Food Future is a full-stack web application that connects donors with NGOs through a secure donation platform. The system enables users to donate food, groceries, and monetary support while providing real-time donation tracking.
 
-| Feature | Details |
-|---------|---------|
-| **Tech Stack** | Java Servlets, JSP, JDBC, Oracle Database, HTML, CSS, JavaScript |
-| **Authentication** | Dual Login (Donor & NGO) |
-| **Database** | Oracle Database |
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | Java, JSP, Servlets, JDBC, Oracle SQL, HTML, CSS, JavaScript |
 | **Architecture** | MVC Architecture |
-| **Status Tracking** | Donation lifecycle tracking |
-| **IDE** | Eclipse + Maven |
+| **Authentication** | Donor & NGO Login |
+| **Database** | Oracle Database |
+| **IDE** | Eclipse IDE + Maven |
+| **Version Control** | Git & GitHub |
 
-### ✨ Highlights
+### ✨ Key Features
 
-- Secure authentication for Donors and NGOs
-- Donate Food, Grocery & Monetary Support
-- Donation status tracking
-- Responsive user interface
-- Oracle database integration
-- Java Servlets & JSP backend
+- 🔐 Secure login and registration
+- 🍱 Food donation module
+- 🛒 Grocery donation module
+- 💰 Monetary donation module
+- 📍 NGO selection
+- 📊 Donation tracking
+- 💻 Responsive user interface
+- 🗄️ Oracle database integration
 
-**Key Skills:** `Java` `JSP` `Servlets` `JDBC` `Oracle SQL` `HTML` `CSS` `JavaScript`
+### 🛠 Skills Demonstrated
+
+`Java` `JSP` `Servlets` `JDBC` `Oracle SQL`
+`HTML` `CSS` `JavaScript`
+`MVC`
+`Authentication`
+
+> Repository: *(Add your GitHub repository link here after uploading the project.)*
 
 </details>
 
@@ -218,41 +236,91 @@ A full-stack donation platform that connects donors with NGOs through a secure a
 <details>
 <summary><b>🛡️ Smart Tourist Safety Monitoring System</b></summary>
 
-### 📖 Overview
+## 📖 Project Overview
 
-A web-based application developed to improve tourist safety by providing secure registration, incident reporting, and authority monitoring.
+A web-based application developed to improve tourist safety by enabling secure registration, incident reporting, and authority monitoring through dedicated dashboards.
 
-| Feature | Details |
-|---------|---------|
+| Category | Details |
+|----------|---------|
 | **Tech Stack** | HTML, CSS, JavaScript, PHP, MySQL |
 | **Database** | MySQL |
 | **Server** | XAMPP |
 | **Users** | Tourist & Authority |
-| **Authentication** | Login & Registration |
 | **Deployment** | Localhost |
 
-### ✨ Highlights
+### ✨ Key Features
 
-- Tourist registration & login
-- Authority dashboard
-- Role-based access
-- Incident reporting
-- Responsive design
-- MySQL database integration
+- 👤 Tourist Registration
+- 🔐 Secure Login
+- 🛡️ Authority Dashboard
+- 📢 Incident Reporting
+- 📍 Tourist Monitoring
+- 📱 Responsive Interface
+- 🗄️ MySQL Database Integration
 
-**Key Skills:** `HTML` `CSS` `JavaScript` `PHP` `MySQL` `XAMPP`
+### 🛠 Skills Demonstrated
+
+`HTML`
+`CSS`
+`JavaScript`
+`PHP`
+`MySQL`
+`XAMPP`
+
+> Repository: *(Add your GitHub repository link here after uploading the project.)*
 
 </details>
 
 ---
 
-## 📌 Project Highlights
+<details>
+<summary><b>⚛️ React Playground Studio</b></summary>
 
-- 🌱 Built secure full-stack web applications
-- ☕ Developed Java-based backend systems
-- 🗄️ Designed relational databases using Oracle & MySQL
-- 🔐 Implemented authentication and authorization
-- 📱 Created responsive front-end interfaces
-- 🚀 Applied MVC architecture and clean coding practices
+## 📖 Project Overview
+
+React Playground Studio is a frontend application built using React.js to practice component-based development, reusable UI design, and modern React concepts.
+
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | React.js, JavaScript, HTML, CSS |
+| **Architecture** | Component-Based |
+| **State Management** | React Hooks |
+| **IDE** | Visual Studio Code |
+| **Version Control** | Git & GitHub |
+
+### ✨ Key Features
+
+- ⚛️ Reusable React Components
+- 🎨 Responsive UI
+- 🔄 State Management using Hooks
+- 📂 Organized Folder Structure
+- 💡 Interactive User Interface
+- 🚀 Modern React Development Practices
+
+### 🛠 Skills Demonstrated
+
+`React.js`
+`JavaScript`
+`HTML`
+`CSS`
+`Git`
+`GitHub`
+
+> Repository: *(Add your GitHub repository link here after uploading the project.)*
+
+</details>
+
+---
+
+# 📈 Project Highlights
+
+- 🌟 Built multiple full-stack and frontend applications.
+- ☕ Strong experience with Java, JSP, Servlets, and JDBC.
+- ⚛️ Hands-on experience with React.js and component-based architecture.
+- 🗄️ Designed and integrated Oracle SQL and MySQL databases.
+- 🔐 Implemented secure authentication and role-based access.
+- 📱 Developed responsive user interfaces using HTML, CSS, JavaScript, Bootstrap, and React.
+- 🚀 Applied MVC architecture and clean coding practices.
+- 🔄 Used Git and GitHub for version control and project management.
 
 ---
