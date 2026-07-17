@@ -180,3 +180,79 @@ Career Goal:
 - 🌿 Software Design Patterns
 
 ---
+---
+
+# 🚀 Featured Projects
+
+<details>
+<summary><b>🌱 Eco Food Future – Donation Platform</b></summary>
+
+### 📖 Overview
+
+A full-stack donation platform that connects donors with NGOs through a secure and user-friendly web application.
+
+| Feature | Details |
+|---------|---------|
+| **Tech Stack** | Java Servlets, JSP, JDBC, Oracle Database, HTML, CSS, JavaScript |
+| **Authentication** | Dual Login (Donor & NGO) |
+| **Database** | Oracle Database |
+| **Architecture** | MVC Architecture |
+| **Status Tracking** | Donation lifecycle tracking |
+| **IDE** | Eclipse + Maven |
+
+### ✨ Highlights
+
+- Secure authentication for Donors and NGOs
+- Donate Food, Grocery & Monetary Support
+- Donation status tracking
+- Responsive user interface
+- Oracle database integration
+- Java Servlets & JSP backend
+
+**Key Skills:** `Java` `JSP` `Servlets` `JDBC` `Oracle SQL` `HTML` `CSS` `JavaScript`
+
+</details>
+
+---
+
+<details>
+<summary><b>🛡️ Smart Tourist Safety Monitoring System</b></summary>
+
+### 📖 Overview
+
+A web-based application developed to improve tourist safety by providing secure registration, incident reporting, and authority monitoring.
+
+| Feature | Details |
+|---------|---------|
+| **Tech Stack** | HTML, CSS, JavaScript, PHP, MySQL |
+| **Database** | MySQL |
+| **Server** | XAMPP |
+| **Users** | Tourist & Authority |
+| **Authentication** | Login & Registration |
+| **Deployment** | Localhost |
+
+### ✨ Highlights
+
+- Tourist registration & login
+- Authority dashboard
+- Role-based access
+- Incident reporting
+- Responsive design
+- MySQL database integration
+
+**Key Skills:** `HTML` `CSS` `JavaScript` `PHP` `MySQL` `XAMPP`
+
+</details>
+
+---
+
+## 📌 Project Highlights
+
+- 🌱 Built secure full-stack web applications
+- ☕ Developed Java-based backend systems
+- 🗄️ Designed relational databases using Oracle & MySQL
+- 🔐 Implemented authentication and authorization
+- 📱 Created responsive front-end interfaces
+- 🚀 Applied MVC architecture and clean coding practices
+
+---
