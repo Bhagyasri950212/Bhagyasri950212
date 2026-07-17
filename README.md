@@ -324,3 +324,102 @@ React Playground Studio is a frontend application built using React.js to practi
 - 🔄 Used Git and GitHub for version control and project management.
 
 ---
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+| 🏅 Recognition | 📌 Details |
+|:--------------|:-----------|
+| 💯 LeetCode | Solved **100+ Data Structures & Algorithms** problems |
+| 🎓 Academic Excellence | Secured **93.8%** in Intermediate (Class XII) |
+| 💻 Full Stack Development | Developed multiple Java & React-based web applications |
+| 🗄️ Database Skills | Hands-on experience with Oracle SQL & MySQL |
+| 🚀 Software Development | Built secure full-stack applications using Java Servlets, JSP & JDBC |
+
+</div>
+
+---
+
+# 📜 Certifications
+
+## 🎓 NPTEL
+
+<p>
+
+<img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Introduction%20to%20Database%20Systems-success?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ☁️ AWS
+
+<p>
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Technology-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+---
+
+## 💼 Infosys Springboard
+
+<p>
+
+<img src="https://img.shields.io/badge/Infosys-Data%20Structures-007CC3?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Bhagyasri__09/">
+<img src="https://img.shields.io/badge/LeetCode-Bhagyasri__09-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Bhagyasri950212">
+<img src="https://img.shields.io/badge/GitHub-Bhagyasri950212-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bhagyasri-andhavarapu-b70ab62b7/">
+<img src="https://img.shields.io/badge/LinkedIn-Bhagyasri%20Andhavarapu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📊 Professional Highlights
+
+```text
+✔ Java Full Stack Development
+✔ Object-Oriented Programming (OOP)
+✔ React.js Frontend Development
+✔ Oracle SQL & MySQL
+✔ REST API Fundamentals
+✔ Git & GitHub
+✔ Maven & Eclipse IDE
+✔ Problem Solving with LeetCode
+✔ Secure Authentication Systems
+✔ Responsive Web Design
+```
+
+---
+
+# 🌟 Career Goals
+
+- 💼 Secure a Software Engineering Internship
+- ☕ Become a Java Full Stack Developer
+- 🚀 Contribute to Open Source Projects
+- 📚 Continuously improve problem-solving skills
+- 🌐 Build scalable and user-focused software
+- ☁️ Learn Spring Boot, Microservices, and Cloud Technologies
+
+---
